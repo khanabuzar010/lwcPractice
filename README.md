@@ -60,6 +60,8 @@ Deploy your changes to production using [packaging](https://developer.salesforce
 # Setup Local LWC Development Server
 
 Command
+
 1.sfdx plugins:install @salesforce/lwc-dev-server
+
 2.sfdx plugins:update
 
